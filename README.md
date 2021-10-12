@@ -1,8 +1,8 @@
 # Gorilla Logic - Blog post Nuxt.js
 
-> Gorilla Logic - Nuxt.js - Vue.js blog post and user register with Firebase demo app
+> Gorilla Logic - Nuxt.js - Vue.js blog Vuetify, Firebase Create, Read, Delete and server-side pagination
 
-![Gorilla Logic Blog post](https://raw.githubusercontent.com/kgatjens/gorilla-nuxt-blog/master/assets/gl.png)
+![Gorilla Species List](https://raw.githubusercontent.com/angelogl99/nuxt-vuetify-firebase-v3/main/assets/demo-create-delete.gif)
 
 
 ## Build Setup
