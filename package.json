@@ -1,0 +1,30 @@
+{
+  "name": "gorilla-news",
+  "version": "1.0.0",
+  "description": "Basic example of using Nuxt.js to consume and blog post API and register users in Firebase",
+  "author": "kbrenes",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/firebase": "^7.6.1",
+    "cross-env": "^5.2.0",
+    "firebase": "8.6.5",
+    "md5": "^2.3.0",
+    "nuxt": "^2.0.0",
+    "vue-material": "^1.0.0-beta-15"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.12.1",
+    "eslint-config-prettier": "^3.1.0",
+    "eslint-plugin-prettier": "2.6.2",
+    "node-sass": "^5.0.0",
+    "nodemon": "^1.11.0",
+    "prettier": "1.14.3",
+    "sass-loader": "^10.0.5"
+  }
+}
